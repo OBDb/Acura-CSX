@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Acura_CSX"
+
+generations:
+  - name: "First Generation"
+    start_year: 2006
+    end_year: 2011
+    description: "The Canadian-market sedan based on the eighth-generation Civic, with a 2.0 L K20 engine; a Type-S used the Civic Si's K20Z3."
